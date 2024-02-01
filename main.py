@@ -6,7 +6,7 @@ import random
 pygame.init()
 
 # Configuración del grid y la ventana
-WIDTH, HEIGHT = 50, 50
+WIDTH, HEIGHT = 50, 30
 CELL_SIZE = 10
 WINDOW_SIZE = (WIDTH * CELL_SIZE, HEIGHT * CELL_SIZE)
 
